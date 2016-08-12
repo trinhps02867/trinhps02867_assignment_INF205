@@ -1,0 +1,17 @@
+.mini-footer>h4
+{
+    text-align: center;
+    color: #265a88;
+}
+.mini-footer>ul
+{
+    list-style: none;
+}
+.mini-footer>ul>li
+{
+    padding:10px;
+}
+.social>ul>li
+{
+    float: left;
+}
